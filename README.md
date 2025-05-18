@@ -1,4 +1,4 @@
-![Cool GIF](https://media3.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif)
+![Cool GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4cnNyd3IzZ3B2eXZ0Zng0eTlwMXRqbTJ6MThlcHBmNzJoaHF6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g2jj9VAIBluIreVNsb/200w.gif)
 <h1>Hi 👋, I'm Vedant</h1>
 <p>A passionate frontend developer and a Competitive Programmer</p>
 <h2>🚀 Languages and Tools I Use</h2>
