@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png
+![Description of image](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
 <h1>Hi 👋, I'm Vedant</h1>
 <p>A passionate frontend developer and a Competitive Programmer</p>
 <h2>🚀 Languages and Tools I Use</h2>
