@@ -1,4 +1,4 @@
-![Cool GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4cnNyd3IzZ3B2eXZ0Zng0eTlwMXRqbTJ6MThlcHBmNzJoaHF6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g2jj9VAIBluIreVNsb/200w.gif)
+https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png
 <h1>Hi 👋, I'm Vedant</h1>
 <p>A passionate frontend developer and a Competitive Programmer</p>
 <h2>🚀 Languages and Tools I Use</h2>
